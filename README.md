@@ -14,39 +14,59 @@
 
 ## Gameplay
 <details>
-**<summary>Game-Loop</summary>**
-_**Game-Loop-Sachen**_ <br>
-Beschreibung
+<summary>Game-Loop</summary>
+Türme plazieren<br>
+Geld verdienen durch Gegner töten<br>
+Türme mit dem Geld verbessern und/oder neue Türme kaufen<br>
+Es spawnen mehr und stärkere Gegner<br>
 </details>
 
 <details>
-**<summary>Win & Lose</summary>**
-_**Win & Lose-Sachen**_ <br>
-Beschreibung
+<summary>Win & Lose</summary>
+Win
+<li>Story-Modus: Wenn man eine festen Anzahl an Runden überstanden hat, ohne das die Lebenspunkte auf 0 gesetzt sind, hat man die Karte gewonnen.</li>
+<li>Endlos-Modus: Keine Win-Condition, nur Highscore-Jagd</li>
+<br>
+Lose
+<li>Story- & Endlos-Modus: Wenn zu viele Gegner das Ende erreicht haben und die Lebenspunkte auf 0 gesunken sind.</li>
 </details>
 
 <details>
-**<summary>Interaktion / Skill</summary>**
-_**Interaktion-Sachen**_ <br>
-Beschreibung
+<summary>Interaktion / Skill</summary>
+Taktische/strategische Plazierung der Türme<br>
+Türme kaufen, verbessern, verkaufen<br>
+Selbst aus dem Hauptturm schießen<br>
 </details>
 
 <details>
-**<summary>Game-Mechanics</summary>**
-_**Game-Mechanics-Sachen**_ <br>
-Beschreibung
+<summary>Game-Mechanics</summary>
+Zielpriorisierung der Türme
+Türme kaufen
+Türme plazieren
+Türme verbessern
+Karte im Story-Modus gewinnen, um sie im Endlos-Modus freizuschalten
 </details>
 
 <details>
-**<summary>Items / Powerups</summary>**
-_**Items-Sachen**_ <br>
-Beschreibung
+<summary>Tower</summary>
+<li>Gargoyle</li>
+<li>Archer</li>
+<li>Teufel/Teufel Duo</li>
+</details>
+
+<details>
+<summary>Enemies</summary>
+<li>Bauern</li>
+<li>Dorfschranzen</li>
+<li>(Holzfäller)</li>
+<li>Bauern</li>
 </details>
 
 <details>
 **<summary>Progression & Herausforderung</summary>**
-_**Progression-Sachen**_ <br>
-Beschreibung
+Spiel wird mit jeder Welle schwieriger<br>
+Boss-Wellen<br>
+(Schwierigkeitsmodus)<br>
 </details>
 
 
